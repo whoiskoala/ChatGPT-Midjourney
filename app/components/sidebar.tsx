@@ -121,7 +121,7 @@ export function SideBar(props: { className?: string }) {
           AI沃茨-Chat
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          <a href="https://learnprompt.pro/">点击进入魔法世界</a>
+          <a href="https://www.learnprompt.pro/aiMarket">使用指南 & 全AI帐号解决平台 有号friend</a>
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
